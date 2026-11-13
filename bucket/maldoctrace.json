@@ -1,18 +1,18 @@
 {
-    "version": "0.3.0",
+    "version": "0.4.0",
     "description": "Static analyzer and safe VBA emulator for malicious Office documents",
     "homepage": "https://github.com/debugactiveprocess/MaldocTrace",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/debugactiveprocess/MaldocTrace/releases/download/v0.3.0/maldocTrace_0.3.0_windows_amd64.zip",
-            "hash": "f540722f087f7c7ba8e813a4e31991082f31cf7abcf414bcf14a8be9fd9c515d",
-            "extract_dir": "maldocTrace_0.3.0_windows_amd64"
+            "url": "https://github.com/debugactiveprocess/MaldocTrace/releases/download/v0.4.0/maldocTrace_0.4.0_windows_amd64.zip",
+            "hash": "697b966311ffddf9382bfc3649618a32083406120f7ca7140613bc1a59d60fbc",
+            "extract_dir": "maldocTrace_0.4.0_windows_amd64"
         },
         "arm64": {
-            "url": "https://github.com/debugactiveprocess/MaldocTrace/releases/download/v0.3.0/maldocTrace_0.3.0_windows_arm64.zip",
-            "hash": "95be18b34c32c222c76d1b23f15eda175d3ed4d803432731e6761942def4a27c",
-            "extract_dir": "maldocTrace_0.3.0_windows_arm64"
+            "url": "https://github.com/debugactiveprocess/MaldocTrace/releases/download/v0.4.0/maldocTrace_0.4.0_windows_arm64.zip",
+            "hash": "69b3b73550d7b18c0e9399d917dc8c7aa2c408fd3fb2aa7faa86fd7f257ba052",
+            "extract_dir": "maldocTrace_0.4.0_windows_arm64"
         }
     },
     "bin": "maldocTrace.exe",
